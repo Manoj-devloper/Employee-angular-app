@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "lexxy",
+      "lastName": "Cary",
+      "email": "lexcarry12@gmail.com",
+      "mobileNo": 9842989402,
+      "salary": "40,000"
+    },
+    {
+      "id": 3,
+      "firstName": "max",
+      "lastName": "leonard",
+      "email": "leonardmaxxy@gmail.com",
+      "mobileNo": 8072718014,
+      "salary": "50,000"
+    },
+    {
+      "id": 6,
+      "firstName": "morry",
+      "lastName": "dada",
+      "email": "moryda223@gmail.com",
+      "mobileNo": 8839820992,
+      "salary": "25,000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
